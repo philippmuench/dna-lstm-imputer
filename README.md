@@ -15,3 +15,5 @@ th sample.lua model/plasmids.t7 -gpuid -1 -primetext "ATACT" -length 100
 
 see https://github.com/karpathy/char-rnn for installation guide
 
+# licence
+MIT
