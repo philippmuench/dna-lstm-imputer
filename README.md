@@ -7,7 +7,7 @@ Multi-layer Recurrent Neural Network (LSTM) for imputation of missing DNA fragme
 to predict the next 100 amino acids that are likely followed by *ATACT*: 
 
 ```
-th sample.lua model/plasmids.t7 -gpuid -1 -primetext "ATACT" -length 100
+th sample.lua cv/plasmids.t7 -gpuid -1 -primetext "ATACT" -length 100
 ```
 
 output
