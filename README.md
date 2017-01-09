@@ -10,6 +10,15 @@ to predict the next 100 amino acids that are likely followed by *ATACT*:
 th sample.lua model/plasmids.t7 -gpuid -1 -primetext "ATACT" -length 100
 ```
 
+output
+```
+creating an lstm...	
+seeding with ATACT	
+--------------------------	
+ATACTGGCCAGGGGCCTTCGGCACCCGGCCAAGCGGGACAAGGGCGCTCGGGCGCCGCCAACTGGATCACACACACTCGTGTCCCGGACCCCGTTAACCTAGCGG
+```
+
+
 
 # install
 
